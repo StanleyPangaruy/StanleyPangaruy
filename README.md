@@ -1,8 +1,6 @@
 # 🛡️ Stanley Pangaruy
 > "One day, your code will be tested... and only you can rekindle the flame."
 
-![banner](https://i.imgur.com/3Z2Rnix.png) <!-- Optional: Replace with your own banner image -->
-
 Welcome, Unkindled. I am Stanley — a software developer, engineer, and ever-curious tinkerer of machines and madness.  
 My path is that of arcane code and digital embers — traversing landscapes forged in C#, .NET, Python, and embedded systems.
 
@@ -25,19 +23,3 @@ Languages:      C# | Python | JavaScript | HTML/CSS | SQL
 Frameworks:     ASP.NET Core | FastAPI | React | Tailwind
 Tools:          Git | Docker | QGIS | Figma | Postman | Firebase
 Weapons:        ESP32 | Raspberry Pi | YOLOv5/8 | OpenCV
-
-
-<!--
-**StanleyPangaruy/StanleyPangaruy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
