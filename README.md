@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Stanley Pangaruy
+# ☀️ Hi, I'm Stanley Pangaruy
 
 Welcome to my GitHub profile! I'm a Computer Engineering student from the Polytechnic University of the Philippines, passionate about building scalable systems, automating workflows, and bridging hardware and software through embedded systems and intelligent applications.
 
@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a Computer Engineering student from the Polyte
 **Languages & Frameworks**  
 `C#` | `Python` | `JavaScript` | `HTML/CSS` | `SQL`  
 `.NET Core` | `FastAPI` | `React` | `Tailwind CSS`
+`C++` | `Java`
 
 **Tools & Platforms**  
 `Git & GitHub` | `PostgreSQL` | `QGIS` | `Docker` | `Figma` | `Firebase`
@@ -25,7 +26,6 @@ Welcome to my GitHub profile! I'm a Computer Engineering student from the Polyte
 ## 📌 Notable Projects
 
 - **Maturity Detection System** for *Cocos nucifera* using Raspberry Pi, image processing, and classification models  
-- **Smart Home Miniature Model** powered by ESP32 for real-time automation and control  
 - **Job Recruitment API** – A RESTful service with recruiter-applicant interactions and status tracking  
 - **GIS Mapping with QGIS** – Visual zoning and density analysis using HLURB classification and color ramp design  
 
